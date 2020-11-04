@@ -1,0 +1,1 @@
+# latihaninheritance
